@@ -34,9 +34,9 @@ const examsDetails = {
             {"code": "MAT256", "date": "April 28, 2025 9:30:00", "name": "PROBABILITY AND STATISTICAL MODELING", "id": 1 },
             {"code": "CST202", "date": "May 2, 2025 9:30:00", "name": "COMPUTER ORGANISATION AND ARCHITECTURE", "id":2},
             {"code": "CST204", "date": "May 8, 2025 9:30:00", "name": "DATABASE MANAGEMENT SYSTEMS", "id":3},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
             {"code": "CST206", "date": "May 23, 2025 9:30:00", "name": "OPERATING SYSTEMS", "id":7},
         ],
 
@@ -44,9 +44,9 @@ const examsDetails = {
             {"code": "MAT216", "date": "April 28, 2025 9:30:00", "name": " MATHEMATICAL FOUNDATIONS FOR MACHINE LEARNING", "id": 1 },
             {"code": "CST202", "date": "May 2, 2025 9:30:00", "name": "COMPUTER ORGANISATION AND ARCHITECTURE", "id":2},
             {"code": "CST204", "date": "May 8, 2025 9:30:00", "name": "DATABASE MANAGEMENT SYSTEMS", "id":3},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
             {"code": "CST206", "date": "May 23, 2025 9:30:00", "name": "OPERATING SYSTEMS", "id":7},
         ],
 
@@ -54,27 +54,27 @@ const examsDetails = {
             {"code": "BMT202", "date": "May 2, 2025 9:30:00", "name": "MICROCONTROLLERS AND INTERFACING", "id":1},
             {"code": "BMT204", "date": "May 8, 2025 9:30:00", "name": "ELECTRICAL AND ELECTRONIC INSTRUMENTATION", "id":2},
             {"code": "BMT206", "date": "May 13, 2025 9:30:00", "name": "BIOPHYSICS", "id":3},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
         ],
 
         "BT": [
             {"code": "BTT202", "date": "May 2, 2025 9:30:00", "name": "CHEMICAL AND BIOLOGICAL REACTION ENGINEERING", "id":1},
             {"code": "BTT204", "date": "May 8, 2025 9:30:00", "name": "PRINCIPLES OF BIOCHEMISTRY", "id":2},
             {"code": "BTT206", "date": "May 13, 2025 9:30:00", "name": "BIOPROCESS ENGINEERING", "id":3},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
         ],
 
         "CA": [
             {"code": "MAT236", "date": "April 28, 2025 9:30:00", "name": "MATHEMATICS FOR ARTIFICIAL INTELLIGENCE", "id": 1 },
             {"code": "CST202", "date": "May 2, 2025 9:30:00", "name": "COMPUTER ORGANISATION AND ARCHITECTURE", "id":2},
             {"code": "CST204", "date": "May 8, 2025 9:30:00", "name": "DATABASE MANAGEMENT SYSTEMS", "id":3},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":4},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":4},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
             {"code": "CST206", "date": "May 23, 2025 9:30:00", "name": "OPERATING SYSTEMS", "id":7},
         ],
 
@@ -82,28 +82,28 @@ const examsDetails = {
             {"code": "CET202", "date": "May 2, 2025 9:30:00", "name": "ENGINEERING GEOLOGY", "id": 1 },
             {"code": "CET204", "date": "May 8, 2025 9:30:00", "name": "GEOTECHNICAL ENGINEERING I", "id":2},
             {"code": "CET206", "date": "May 13, 2025 9:30:00", "name": "TRANSPORTATION ENGINEERING", "id":3},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":4},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":4},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
         ],
 
         "CC": [
             {"code": "MAT266", "date": "April 28, 2025 9:30:00", "name": "MATHEMATICAL FOUNDATIONS FOR SECURITY SYSTEMS", "id": 1 },
             {"code": "CST202", "date": "May 2, 2025 9:30:00", "name": "COMPUTER ORGANISATION AND ARCHITECTURE", "id":2},
             {"code": "CST204", "date": "May 8, 2025 9:30:00", "name": "DATABASE MANAGEMENT SYSTEMS", "id":3},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":4},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":4},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
             {"code": "CST206", "date": "May 23, 2025 9:30:00", "name": "OPERATING SYSTEMS", "id":7},
         ],
 
         "CS": [
-            {"code": "MAT206", "date": "April 28, 2025 9:30:00", "name": "GRAPH THEORY", "id": 1 },
-            {"code": "CST202", "date": "May 2, 2025 9:30:00", "name": "COMPUTER ORGANISATION AND ARCHITECTURE", "id":2},
-            {"code": "CST204", "date": "May 8, 2025 9:30:00", "name": "DATABASE MANAGEMENT SYSTEMS", "id":3},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":4},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "MAT206", "date": "April 29, 2025 9:30:00", "name": "GRAPH THEORY", "id": 1 },
+            {"code": "CST202", "date": "May 5, 2025 9:30:00", "name": "COMPUTER ORGANISATION AND ARCHITECTURE", "id":2},
+            {"code": "CST204", "date": "May 9, 2025 9:30:00", "name": "DATABASE MANAGEMENT SYSTEMS", "id":3},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":4},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
             {"code": "CST206", "date": "May 23, 2025 9:30:00", "name": "OPERATING SYSTEMS", "id":7},
         ],
 
@@ -111,30 +111,31 @@ const examsDetails = {
             {"code": "ECT202", "date": "May 2, 2025 9:30:00", "name": "ANALOG CIRCUITS", "id":1},
             {"code": "ECT204", "date": "May 8, 2025 9:30:00", "name": "SIGNALS AND SYSTEMS", "id":2},
             {"code": "ECT206", "date": "May 13, 2025 9:30:00", "name": "COMPUTER ARCHITECTURE AND MICROCONTROLLERS*", "id":3},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
 
         ],
 
         "ER": [
-            {"code": "MAT204", "date": "April 28, 2025 9:30:00", "name": "PROBABILITY, RANDOM PROCESS AND NUMERICAL METHODS", "id":1},
+            {"code": "MAT204", "date": "April 29, 2025 9:30:00", "name": "PROBABILITY, RANDOM PROCESS AND NUMERICAL METHODS", "id":1},
             {"code": "CST202", "date": "May 2, 2025 9:30:00", "name": "COMPUTER ORGANISATION AND ARCHITECTURE", "id":2},
             {"code": "ERT204", "date": "May 13, 2025 9:30:00", "name": "OBJECT ORIENTED PROGRAMMING USING JAVA", "id":3},
             {"code": "ERT206", "date": "May 13, 2025 9:30:00", "name": "INTEGRATED CIRCUITS", "id":4},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":6},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":7},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":6},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":7},
 
         ],
 
         "IT": [
-            {"code": "ITT202", "date": "May 2, 2025 9:30:00", "name": "PRINCIPLES OF OBJECT ORIENTED TECHNIQUES", "id": 1 },
-            {"code": "ITT204", "date": "May 8, 2025 9:30:00", "name": "COMPUTER ORGANIZATION", "id":2},
-            {"code": "ITT206", "date": "May 13, 2025 9:30:00", "name": "DATABASE MANAGEMENT SYSTEMS", "id":3},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":6},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":7},
+            {"code": "MAT208", "date": "April 29, 2025 9:30:00", "name": "PROBABILITY, STATISTICS AND ADVANCED GRAPH THEORY", "id": 1 },
+            {"code": "ITT202", "date": "May 5, 2025 9:30:00", "name": "PRINCIPLES OF OBJECT ORIENTED TECHNIQUES", "id": 2 },
+            {"code": "ITT204", "date": "May 9, 2025 9:30:00", "name": "COMPUTER ORGANIZATION", "id":3},
+            {"code": "ITT206", "date": "May 14, 2025 9:30:00", "name": "DATABASE MANAGEMENT SYSTEMS", "id":4},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":6},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":7},
 
         ],
 
@@ -143,18 +144,18 @@ const examsDetails = {
             {"code": "MET202", "date": "May 2, 2025 9:30:00", "name": "ENGINEERING THERMODYNAMICS", "id":2},
             {"code": "MET204", "date": "May 8, 2025 9:30:00", "name": "MANUFACTURING PROCESS", "id":3},
             {"code": "MET206", "date": "May 13, 2025 9:30:00", "name": "FLUID MACHINERY", "id":4},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":6},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":7},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":5},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":6},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":7},
         ],
 
         "EE": [
-            {"code": "EET202", "date": "May 2, 2025 9:30:00", "name": "DC MACHINES AND TRANSFORMERS", "id": 1 },
-            {"code": "EET204", "date": "May 8, 2025 9:30:00", "name": "ELECTROMAGNETIC THEORY", "id":2},
-            {"code": "EET206", "date": "May 13, 2025 9:30:00", "name": "DIGITAL ELECTRONICS", "id":3},
-            {"code": "EST200", "date": "May 16, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
-            {"code": "HUT200", "date": "May 16, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
-            {"code": "MCN202", "date": "May 20, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
+            {"code": "EET202", "date": "May 5, 2025 9:30:00", "name": "DC MACHINES AND TRANSFORMERS", "id": 1 },
+            {"code": "EET204", "date": "May 9, 2025 9:30:00", "name": "ELECTROMAGNETIC THEORY", "id":2},
+            {"code": "EET206", "date": "May 14, 2025 9:30:00", "name": "DIGITAL ELECTRONICS", "id":3},
+            {"code": "EST200", "date": "May 17, 2025 9:30:00", "name": "DESIGN AND ENGINEERING", "id":4},
+            {"code": "HUT200", "date": "May 17, 2025 9:30:00", "name": "PROFESSIONAL ETHICS", "id":5},
+            {"code": "MCN202", "date": "May 21, 2025 9:30:00", "name": "CONSTITUTION OF INDIA", "id":6},
         ],
 
     },
@@ -164,7 +165,7 @@ const examsDetails = {
             { "code": "AIT304", "date": "April 30, 2025 9:30:00", "name": "Robotics and Intelligent System", "id": 2 },
             { "code": "CST306", "date": "May 7, 2025 9:30:00", "name": "Algorithm Analysis And Design", "id": 3 },
             { "code": "ADT---", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "ADT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 6 }
         ],
 
@@ -173,7 +174,7 @@ const examsDetails = {
             { "code": "AIT304", "date": "April 30, 2025 9:30:00", "name": "Robotics and Intelligent System", "id": 2 },
             { "code": "CST306", "date": "May 7, 2025 9:30:00", "name": "Algorithm Analysis And Design", "id": 3 },
             { "code": "AMT---", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "AMT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 6 }
         ],
 
@@ -182,7 +183,7 @@ const examsDetails = {
             { "code": "BMT304", "date": "April 30, 2025 9:30:00", "name": "Therapeutics Equipments", "id": 2 },
             { "code": "BMT306", "date": "May 7, 2025 9:30:00", "name": "Principles of Medical Imaging", "id": 3 },
             { "code": "BMT3x2", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management for Engineers", "id": 6 },
             { "code": "BMT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 7 }
         ],
@@ -192,7 +193,7 @@ const examsDetails = {
             { "code": "BTT304", "date": "April 30, 2025 9:30:00", "name": "Downstream Processing", "id": 2 },
             { "code": "BTT306", "date": "May 7, 2025 9:30:00", "name": "Bioreactor Control and Instrumentation", "id": 3 },
             { "code": "BTT3x2", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management for Engineers", "id": 6 },
             { "code": "BTT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 7 }
         ],
@@ -202,7 +203,7 @@ const examsDetails = {
             { "code": "AIT304", "date": "April 30, 2025 9:30:00", "name": "Robotics and Intelligent System", "id": 2 },
             { "code": "CST306", "date": "May 7, 2025 9:30:00", "name": "Algorithm Analysis And Design", "id": 3 },
             { "code": "CAT---", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management for Engineers", "id": 6 },
             { "code": "CAT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 7 }
         ],
@@ -212,7 +213,7 @@ const examsDetails = {
             { "code": "CCT304", "date": "April 30, 2025 9:30:00", "name": "Cyber Forensics", "id": 2 },
             { "code": "CST306", "date": "May 7, 2025 9:30:00", "name": "Algorithm Analysis And Design", "id": 3 },
             { "code": "CST---", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "CCT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 6 }
         ],
 
@@ -221,19 +222,19 @@ const examsDetails = {
             { "code": "CST304", "date": "April 30, 2025 9:30:00", "name": "Computer Graphics And Image Processing", "id": 2 },
             { "code": "CST306", "date": "May 7, 2025 9:30:00", "name": "Algorithm Analysis And Design", "id": 3 },
             { "code": "CST3x2", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
-            { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management for Engineers", "id": 5 },
-            { "code": "CST308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 6 }
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management for Engineers", "id": 6 },
+            { "code": "CST308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 7 }
         ],
 
         "IT": [
             { "code": "ITT302", "date": "April 25, 2025 9:30:00", "name": "Internetworking With TCP/IP", "id": 1 },
-            { "code": "ITT304", "date": "April 30, 2025 9:30:00", "name": "Algorithm Analysis And Design", "id": 2 },
-            { "code": "ITT306", "date": "May 7, 2025 9:30:00", "name": "Data Science", "id": 3 },
-            { "code": "ITT3x2", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "ITT304", "date": "May 2, 2025 9:30:00", "name": "Algorithm Analysis And Design", "id": 2 },
+            { "code": "ITT306", "date": "May 8, 2025 9:30:00", "name": "Data Science", "id": 3 },
+            { "code": "ITT3x2", "date": "May 13, 2025 9:30:00", "name": "Elective - I", "id": 4 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management For Engineers", "id": 5 },
-            { "code": "ITT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 6 }
+            { "code": "ITT308", "date": "May 20, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 6 }
         ],
 
         "EC": [
@@ -241,7 +242,7 @@ const examsDetails = {
             { "code": "ECT304", "date": "April 30, 2025 9:30:00", "name": "VLSI Circuit Design", "id": 2 },
             { "code": "ECT306", "date": "May 7, 2025 9:30:00", "name": "Information Theory And Coding", "id": 3 },
             { "code": "ECT3x2", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management For Engineers", "id": 6 },
             { "code": "ECT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 7 }
         ],
@@ -251,7 +252,7 @@ const examsDetails = {
             { "code": "ERT304", "date": "April 30, 2025 9:30:00", "name": "Embedded Systems & IoT", "id": 2 },
             { "code": "ERT306", "date": "May 7, 2025 9:30:00", "name": "Data Communication and Networking", "id": 3 },
             { "code": "ERT–", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "ERT308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 6 }
         ],
 
@@ -260,7 +261,7 @@ const examsDetails = {
             { "code": "MET304", "date": "April 30, 2025 9:30:00", "name": "Dynamics Of Machinery & Machine Design", "id": 2 },
             { "code": "MET306", "date": "May 7, 2025 9:30:00", "name": "Advanced Manufacturing Engineering", "id": 3 },
             { "code": "MET3x2", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management for Engineers", "id": 6 },
             { "code": "MET308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 7 },
         ],
@@ -270,7 +271,7 @@ const examsDetails = {
             { "code": "EET304", "date": "April 30, 2025 9:30:00", "name": "Power Systems II", "id": 2 },
             { "code": "EET306", "date": "May 7, 2025 9:30:00", "name": "Power Electronics", "id": 3 },
             { "code": "EET3x2", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management For Engineers", "id": 6 },
             { "code": "EET308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 7 }
         ],
@@ -280,7 +281,7 @@ const examsDetails = {
             { "code": "CET304", "date": "April 30, 2025 9:30:00", "name": "Environmental Engineering", "id": 2 },
             { "code": "CET306", "date": "May 7, 2025 9:30:00", "name": "Design of Hydraulic Structures", "id": 3 },
             { "code": "CET3x2", "date": "May 12, 2025 9:30:00", "name": "Elective - I", "id": 4 },
-            { "code": "HUT300", "date": "May 15, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
+            { "code": "HUT300", "date": "May 16, 2025 9:30:00", "name": "Industrial Economics And Foreign Trade", "id": 5 },
             { "code": "HUT310", "date": "May 15, 2025 9:30:00", "name": "Management for Engineers", "id": 6 },
             { "code": "CET308", "date": "May 19, 2025 9:30:00", "name": "Comprehensive Course Work", "id": 7 }
         ],
@@ -365,10 +366,10 @@ const examsDetails = {
         ],
 
         "IT":[
-            { "code": "ITT402", "date": "April 16, 2025 9:30:00", "name": "Cryptography and Network Security", "id": 1 },
-            {"code": "ITT4X4", "date": "April 22, 2025 9:30:00", "name": "Program Elective 3", "id":2},
-            {"code": "ITT4X6", "date": "April 24, 2025 9:30:00", "name": "Program Elective 4", "id":3},
-            {"code": "ITT4X8", "date": "April 29, 2025 9:30:00", "name": "Program Elective 5", "id":4},
+            { "code": "ITT402", "date": "April 22, 2025 9:30:00", "name": "Cryptography and Network Security", "id": 1 },
+            {"code": "ITT4X4", "date": "April 24, 2025 9:30:00", "name": "Program Elective 3", "id":2},
+            {"code": "ITT4X6", "date": "April 28, 2025 9:30:00", "name": "Program Elective 4", "id":3},
+            {"code": "ITT4X8", "date": "April 30, 2025 9:30:00", "name": "Program Elective 5", "id":4},
         ],
         "ME":[
             { "code": "MET402", "date": "April 16, 2025 9:30:00", "name": "Mechatronics", "id": 1 },
